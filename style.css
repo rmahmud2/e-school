@@ -1,0 +1,122 @@
+.container {
+    font-family: 'Poppins', sans-serif;
+    height: 600px;
+    margin-bottom: 50px;
+}
+/*navbar css start*/
+.logo {
+    width: 198.07px;
+    height: 59px;
+    left: 212px;
+    top: 30px;
+}    
+.sign-up {
+    background: #21B573;
+    border-radius: 33px;
+    padding: 1px 5px;
+}
+/*navbar css end*/
+
+/*header css start*/
+h6 {
+    color: #FD511A;
+}
+.text-highlight {
+    color: #21B573;
+}
+.header-para {
+    font-style: normal;
+    font-weight: 400px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+.head-pic {
+    width: 100%;
+}
+h5 {
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: #21B573;
+    border-radius: 33px;
+    padding: 10px 15px;
+    
+}
+/*header css end*/
+
+/*Course Topics and students counts starts*/  
+.card {
+    align-items: center;
+    background: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+}
+.card:hover {
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.card-img-top1 {
+    align-content: center;
+    width: 40px;
+}
+.card-body1 {
+    text-align: center;
+}
+.card-title {
+    color: #413960;
+    font-size: 24px;
+}
+.card-text {
+    color: #585859;
+    font-size: 16px;
+    font-weight: normal;
+}
+/*Course Topics and students counts ends*/
+
+.card-img-top {
+    padding-top: 20px;
+    width: 80%; 
+    border-radius: 11px;
+}
+.buy-now {
+    align-content: center;
+}
+.card-footer {
+    border: none;
+    background-color: white;
+    text-align: justify;
+}
+.text-muted img {
+    width: 25px;
+}
+.calendar {
+    width: 169px;
+    height: 24px;
+    left: 184px;
+}
+h1.courses {
+    padding-top: 150px;
+    text-align: center;
+    color: #413960;
+}
+
+/* testimonial */
+
+.testi {
+    width: 170px;
+}
+.testi-text {
+    text-align: justify;
+}
+
+/*footer start*/
+footer {
+    background-color: #282531;
+    border: 1px solid red;
+}
+/*footer end*/
