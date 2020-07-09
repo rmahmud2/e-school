@@ -1,6 +1,5 @@
 .container {
     font-family: 'Poppins', sans-serif;
-    height: 600px;
     margin-bottom: 50px;
 }
 /*navbar css start*/
@@ -115,8 +114,42 @@ h1.courses {
 }
 
 /*footer start*/
-footer {
+.footer-bg {
     background-color: #282531;
     border: 1px solid red;
+    height: 260px;
+}
+.footer-para {
+    color: paleturquoise;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: justify;
+    padding: 15px 20px;
+}
+.footer-cat {
+    color: palevioletred;
+    text-align: left;
+    padding: 20px 20px;
+}
+.course-list {
+    color: #FFFFFF;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-weight: 200px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.copyright {
+    text-align: center;
+    color: #F8FFFB;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
 }
 /*footer end*/
+
+.location-bg {
+    background-color: white;
+    padding: 10px 10px;
+}
